@@ -6,6 +6,6 @@
     "Email_Names": "",
     "Password": "",
 
-    "discordInteraction": false,
-    "discordWebhook": ""
+    "discordInteraction": true,
+    "discordWebhook": "https://discord.com/api/webhooks/1210753201897213972/uoCDzy49YMEJm6HHPIC6qilWOzAxrgnEk7vHUKq5ni19MPCnE52vuEfR4HbuEuQJIUgp"
 }
